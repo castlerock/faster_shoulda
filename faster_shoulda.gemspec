@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version = Shoulda::VERSION
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Karunakar Revuri"]
+  s.authors = ["Karunakar Revuri", "Vishnu Atrai", "Mitesh Jain", "Arun Agarwal" ]
   s.date = Time.now.strftime("%Y-%m-%d")
   s.default_executable = %q{convert_to_should_syntax}
   s.email = %q{revurikarna@gmail.com}
